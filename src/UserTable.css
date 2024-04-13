@@ -1,0 +1,30 @@
+.Name {
+  width: 100%;
+  margin-top: 20px;
+  height: 40px;
+  border: none;
+  border-radius: 7px;
+  padding-left: 10px;
+}
+
+.btn {
+  width: 100%;
+  height: 40px;
+  margin-top: 30px;
+  border: none;
+  background: blue;
+  color: white;
+  font-size: 20px;
+  border-radius: 7px;
+}
+table {
+  width: 100%;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  display: inline-block;
+  background-color: aqua;
+  width: 100px;
+}

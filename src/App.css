@@ -1,0 +1,11 @@
+.container {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: aliceblue;
+  padding: 40px;
+  border-radius: 10px;
+}
+.user {
+  text-align: center;
+}
